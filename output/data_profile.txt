@@ -1,0 +1,19 @@
+Dataset: realtor-data.zip.csv
+Total rows: 2,226,382
+
+Missing values by column:
+brokered_by         4533
+status                 0
+price               1541
+bed               481317
+bath              511771
+acre_lot          325589
+street             10866
+city                1407
+state                  8
+zip_code             299
+house_size        568484
+prev_sold_date    734297
+
+Property status counts:
+{'for_sale': 1389306, 'ready_to_build': 25067, 'sold': 812009}
